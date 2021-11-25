@@ -8,7 +8,7 @@ The rarity calculator calculates the actual percentage of each trait (and non-ex
 
 **RarityCalculator.java** > rarity calculator used for rarities.txt so you can have a look at it
 
-**trait_raritiy_count.txt** > List of how often a trait occurs in the 20k collection
+**trait_rarity_count.txt** > List of how often a trait occurs in the 20k collection
 
 # Top 100 Degen Trash Pandas
 | Rank | Trash Panda # | Rarity | Image |
