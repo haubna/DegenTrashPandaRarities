@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
@@ -85,7 +86,7 @@ public class RarityCalculator {
 				for (int j = 0; j < attributes.size(); j++) {
 					JsonObject attribute = attributes.get(j).getAsJsonObject();
 					String type = attribute.get("trait_type").getAsString();
-					String value = attribute.get("value").getAsString();
+					String value = type + " - " + attribute.get("value").getAsString();
 
 					if (traitTypes.contains(type)) {
 						tmpTypes.remove(type);
@@ -112,9 +113,11 @@ public class RarityCalculator {
 
 			System.out.println("processed: " + i);
 		}
+		
+		Map<String, Integer> sortedTraitCount = sortByValue(traitCount);
 
 		// calculate the rarity of each trait in percentage
-		for (Entry<String, Integer> entry : traitCount.entrySet()) {
+		for (Entry<String, Integer> entry : sortedTraitCount.entrySet()) {
 			System.out.println(entry.getKey() + " > " + entry.getValue());
 
 			traitRarity.put(entry.getKey(), entry.getValue() / 20000.0);
@@ -149,7 +152,7 @@ public class RarityCalculator {
 				for (int j = 0; j < attributes.size(); j++) {
 					JsonObject attribute = attributes.get(j).getAsJsonObject();
 					String type = attribute.get("trait_type").getAsString();
-					String value = attribute.get("value").getAsString();
+					String value = type + " - " + attribute.get("value").getAsString();
 
 					if (traitTypes.contains(type)) {
 						tmpTypes.remove(type);
@@ -180,6 +183,14 @@ public class RarityCalculator {
 			System.out.println("Rank " + (i + 1) + "# > " + panda.number + " / rarity > "
 					+ String.format(Locale.US, "%.10f", (panda.rarity * 100.0)) + "% / image > " + panda.image);
 		}
+	}
+	
+	public static Map<String, Integer> sortByValue(Map<String, Integer> map) {
+		List<Map.Entry<String, Integer>> list = new ArrayList<>(map.entrySet());
+		list.sort(Map.Entry.comparingByValue());
+		LinkedHashMap<String, Integer> sortedMap = new LinkedHashMap<>();
+		list.forEach(e -> sortedMap.put(e.getKey(), e.getValue()));
+		return sortedMap;
 	}
 
 	static class TrashPanda implements Comparable<TrashPanda> {
