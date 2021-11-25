@@ -11,7 +11,7 @@ The rarity calculator calculates the actual percentage of each trait (and non-ex
 # Top 20 Degen Trash Pandas
 | Rank | Trash Panda # | Rarity | Image |
 | :---: | :---: | :---: | :---: |
-| 1 | 1155 | 0.0000000004% | ![rank1](https://www.arweave.net/2zReiXtAjnp5_q4zXKS5LoL9VsarIifRJANiBub2pQM?ext=png) |
+| 1 | 1155 | 0.0000000004% | <img src="https://www.arweave.net/2zReiXtAjnp5_q4zXKS5LoL9VsarIifRJANiBub2pQM?ext=png" alt="a" width="200"/> |
 | 2 | 6115 | 0.0000000035% | ![rank2](https://www.arweave.net/qLoBCPcKNPluB5gQLqqpsk4oSndCp-lnHqzmIYoEjr0?ext=png) |
 | 3 | 7671 | 0.0000000036% | ![rank3](https://www.arweave.net/yRPshwxXS9wh613YTGelJqOCc4VqE1pISspDYNZsbvc?ext=png) |
 | 4 | 12664 | 0.0000000041% | ![rank4](https://www.arweave.net/l1kyJF9SC2yOLyxD_kSEJfipj6i12YdB9vrqod9qn7o?ext=png) |
