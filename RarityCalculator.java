@@ -180,7 +180,7 @@ public class RarityCalculator {
 
 		for (int i = 0; i < pandas.size(); i++) {
 			TrashPanda panda = pandas.get(i);
-			System.out.println("Rank " + (i + 1) + "# > " + panda.number + " / rarity > "
+			System.out.println("Rank " + (i + 1) + " > " + panda.number + " / rarity > "
 					+ String.format(Locale.US, "%.10f", (panda.rarity * 100.0)) + "% / image > " + panda.image);
 		}
 	}
