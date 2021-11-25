@@ -1,6 +1,6 @@
 # Degen Trash Panda - Rarities
 
-The rarity calculator calculates the actual percentage of each trait (and non-existing ones) and multiplies the percentages of them. This doesn't include the traits of exiled trash pandas or special conditions like the 10% that the background doesn't match the fur color.
+The rarity calculator calculates the actual percentage of each trait (and non-existing ones) and multiplies the percentages of them. This doesn't include the traits of exalted trash pandas or special conditions like the 10% that the background doesn't match the fur color.
 
 **rarities.txt** > contains the rarities calculated by RarityCalculator.java
 
