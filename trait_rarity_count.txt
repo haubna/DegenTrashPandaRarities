@@ -1,130 +1,134 @@
-Purple - Grin > 882
-Flat Cap > 249
-Scarred Blue - Grin > 514
-Lollipop - Grin > 1569
-Star Glasses > 337
-T-Shirt > 830
-Pandas Pickles > 480
-Black > 3875
-Boot > 535
-Cardboard Box > 881
-Zombie - Smirk > 33
-Singlet > 839
-Open Shirt > 847
-Crayon Shiv - Smirk > 579
-Cigarette - Smirk > 858
-Space Helmet > 21
-Rat Tail - Smirk > 1593
-Paper Bag > 382
-Antique - Grin > 213
-Bumbag > 875
-Green - Grin > 849
-Gold - Smirk  > 20
-Sombrero > 249
-Scarred Green - Grin > 548
-Belt > 620
-Pot > 888
-Prom King > 71
-Yellow > 3209
-Dirty Fiat - Grin > 140
-Chain > 429
-Bandana > 902
-Crayon Farmer > 243
-Fishing Vest > 692
-Dynamite - Grin > 654
-Pirate Hat > 577
-Scarred Black - Grin > 500
-Vampire Cape > 162
-Designer Glasses > 2843
-Brown - Grin > 871
-Designer Jacket > 215
-The Gambler > 206
-Urn > 31
-Cigar - Grin > 307
-Spacesuit > 95
-Scarred Black - Smirk > 657
-Fairy Wings > 330
-Mummy > 408
-Takeout > 701
-Blue > 3173
-No Traits > 25112
-Headband > 531
-Hockey Pads > 638
-Antique - Smirk > 313
-Blue - Grin > 790
-Unicorn Headband > 58
-Zombie - Grin > 31
-Red > 3260
-Road Cone > 487
-Crown > 61
-Xmas Sweater > 321
-Hoodie > 832
-Lampshade > 717
-Joint - Smirk > 281
-Brown - Smirk > 1136
-Snow Goggles > 234
-Ice Cream > 693
-Match Stick - Smirk > 1672
-Paint Can > 950
-Acid Trip - Smirk  > 24
-Degen Service Hat > 853
-Slav Jacket > 208
-Smashed Bottle - Grin > 545
-Overalls > 680
-Tweed Suit > 75
-Beret > 547
-Degen Service Polo > 452
-Toga > 240
-Knitted Vest > 1036
-Blue - Smirk > 1122
-Plunger > 1014
-Steampunk Hat > 53
-Rain Jacket > 407
-Trash Lid > 1089
-Pandos > 686
-Bird Foot - Smirk > 1347
-War Medal - Smirk > 349
-Chav Jacket > 215
-Beanie > 190
-Red - Smirk > 1135
-Tomato Soup > 312
-Gold - Grin > 19
-Green - Smirk > 1097
-Down Jacket > 224
-Scarred Green - Smirk > 671
-Scarred Blue - Smirk > 660
-Trucker Cap > 1063
-Football Jersey - Red/Blue > 430
-Scarred Red - Grin > 524
-Turtle Neck > 983
-Tamberine > 861
-Bone - Grin > 1276
-Denim Vest > 984
-Sock > 266
-Black - Grin > 702
-Scarred Brown - Grin > 490
-Leather Jacket > 428
-Football Jersey - Blue/White > 433
-Fox - Grin > 260
-Monocle > 56
-Acid - Grin > 851
-Engineer > 526
-Black - Smirk > 955
-Admiral > 29
-Swimming Goggles > 708
-Reading Glasses > 2532
-Burnt Spoon - Smirk > 1389
-Red - Grin > 828
-Trash Vipers > 1040
-Purple - Smirk > 1093
-Blouse > 63
-Dress Shirt > 913
-Scarred Purple - Smirk > 699
-Scarred Purple - Grin > 578
-Scarred Red - Smirk > 711
-Scarred Brown - Smirk > 697
-Acid Trip - Grin > 18
-Purple > 3264
-Fox - Smirk > 360
-Colander > 421
-Green > 3220
+BODY - Blue > 1
+FUR - Acid Trip - Grin > 18
+FUR - Gold - Grin > 19
+FUR - Gold - Smirk  > 20
+HEAD - Space Helmet > 21
+FUR - Acid Trip - Smirk  > 24
+BODY - Admiral > 29
+HEAD - Urn > 31
+FUR - Zombie - Grin > 31
+FUR - Zombie - Smirk > 33
+HEAD - Steampunk Hat > 53
+GLASSES - Monocle > 56
+HEAD - Unicorn Headband > 58
+HEAD - Crown > 61
+BODY - Blouse > 63
+BODY - Prom King > 71
+BODY - Tweed Suit > 75
+BODY - Spacesuit > 95
+MOUTH - Dirty Fiat - Grin > 140
+BODY - Vampire Cape > 162
+HEAD - Beanie > 190
+HEAD - The Gambler > 206
+BODY - Slav Jacket > 208
+FUR - Antique - Grin > 213
+BODY - Designer Jacket > 215
+BODY - Chav Jacket > 215
+BODY - Down Jacket > 224
+GLASSES - Snow Goggles > 234
+BODY - Toga > 240
+BODY - Crayon Farmer > 243
+HEAD - Sombrero > 249
+HEAD - Flat Cap > 249
+FUR - Fox - Grin > 260
+HEAD - Sock > 266
+MOUTH - Joint - Smirk > 281
+MOUTH - Cigar - Grin > 307
+HEAD - Tomato Soup > 312
+FUR - Antique - Smirk > 313
+BODY - Xmas Sweater > 321
+BODY - Fairy Wings > 330
+GLASSES - Star Glasses > 337
+MOUTH - War Medal - Smirk > 349
+FUR - Fox - Smirk > 360
+HEAD - Paper Bag > 382
+BODY - Rain Jacket > 407
+BODY - Mummy > 408
+HEAD - Colander > 421
+BODY - Leather Jacket > 428
+BODY - Chain > 429
+BODY - Football Jersey - Red/Blue > 430
+BODY - Football Jersey - Blue/White > 433
+BODY - Degen Service Polo > 452
+HEAD - Pandas Pickles > 480
+HEAD - Road Cone > 487
+FUR - Scarred Brown - Grin > 490
+FUR - Scarred Black - Grin > 500
+FUR - Scarred Blue - Grin > 514
+FUR - Scarred Red - Grin > 524
+BODY - Engineer > 526
+HEAD - Headband > 531
+HEAD - Boot > 535
+MOUTH - Smashed Bottle - Grin > 545
+HEAD - Beret > 547
+FUR - Scarred Green - Grin > 548
+HEAD - Pirate Hat > 577
+FUR - Scarred Purple - Grin > 578
+MOUTH - Crayon Shiv - Smirk > 579
+HEAD - Belt > 620
+BODY - Hockey Pads > 638
+MOUTH - Dynamite - Grin > 654
+FUR - Scarred Black - Smirk > 657
+FUR - Scarred Blue - Smirk > 660
+FUR - Scarred Green - Smirk > 671
+BODY - Overalls > 680
+HEAD - Pandos > 686
+BODY - Fishing Vest > 692
+HEAD - Ice Cream > 693
+FUR - Scarred Brown - Smirk > 697
+FUR - Scarred Purple - Smirk > 699
+HEAD - Takeout > 701
+FUR - Black - Grin > 702
+GLASSES - Swimming Goggles > 708
+FUR - Scarred Red - Smirk > 711
+HEAD - Lampshade > 717
+FUR - Blue - Grin > 790
+FUR - Red - Grin > 828
+BODY - T-Shirt > 830
+BODY - Hoodie > 832
+BODY - Singlet > 839
+BODY - Open Shirt > 847
+FUR - Green - Grin > 849
+MOUTH - Acid - Grin > 851
+HEAD - Degen Service Hat > 853
+MOUTH - Cigarette - Smirk > 858
+HEAD - Tamberine > 861
+FUR - Brown - Grin > 871
+BODY - Bumbag > 875
+HEAD - Cardboard Box > 881
+FUR - Purple - Grin > 882
+HEAD - Pot > 888
+BODY - Bandana > 902
+BODY - Dress Shirt > 913
+HEAD - Paint Can > 950
+FUR - Black - Smirk > 955
+BODY - Turtle Neck > 983
+BODY - Denim Vest > 984
+HEAD - Plunger > 1014
+BODY - Knitted Vest > 1036
+GLASSES - Trash Vipers > 1040
+HEAD - Trucker Cap > 1063
+HEAD - Trash Lid > 1089
+FUR - Purple - Smirk > 1093
+FUR - Green - Smirk > 1097
+FUR - Blue - Smirk > 1122
+FUR - Red - Smirk > 1135
+FUR - Brown - Smirk > 1136
+MOUTH - Bone - Grin > 1276
+MOUTH - Bird Foot - Smirk > 1347
+MOUTH - Burnt Spoon - Smirk > 1389
+MOUTH - Lollipop - Grin > 1569
+MOUTH - Rat Tail - Smirk > 1593
+MOUTH - Match Stick - Smirk > 1672
+GLASSES - Reading Glasses > 2532
+GLASSES - Designer Glasses > 2843
+BODY - No Traits > 2944
+BACKGROUND - Blue > 3172
+BACKGROUND - Yellow > 3209
+BACKGROUND - Green > 3220
+BACKGROUND - Red > 3260
+BACKGROUND - Purple > 3264
+HEAD - No Traits > 3328
+BACKGROUND - Black > 3875
+MOUTH - No Traits > 6590
+GLASSES - No Traits > 12250
