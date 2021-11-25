@@ -8,7 +8,7 @@ The rarity calculator calculates the actual percentage of each trait (and non-ex
 
 **RarityCalculator.java** > rarity calculator used for rarities.txt so you can have a look at it
 
-# Top 20 Degen Trash Pandas
+# Top 100 Degen Trash Pandas
 | Rank | Trash Panda # | Rarity | Image |
 | :---: | :---: | :---: | :---: |
 | 1 | 1155 | 0.0000000004% | <img src="https://www.arweave.net/2zReiXtAjnp5_q4zXKS5LoL9VsarIifRJANiBub2pQM?ext=png" alt="a" width="200"/> |
