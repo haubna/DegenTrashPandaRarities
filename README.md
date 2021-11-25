@@ -7,3 +7,5 @@ The rarity calculator calculates the actual percentage of each trait (and non-ex
 **trash_pandas.txt** > contains the metadata of all 20,000 trash pandas
 
 **RarityCalculator.java** > rarity calculator used for rarities.txt so you can have a look at it
+
+[My image](https://www.arweave.net/-wc79v3zaqpdpwk-wcbvwjwphojxjnj8vrmjiocbwom?ext=png)
