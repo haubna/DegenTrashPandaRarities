@@ -8,4 +8,4 @@ The rarity calculator calculates the actual percentage of each trait (and non-ex
 
 **RarityCalculator.java** > rarity calculator used for rarities.txt so you can have a look at it
 
-[My image](https://www.arweave.net/-wc79v3zaqpdpwk-wcbvwjwphojxjnj8vrmjiocbwom?ext=png)
+[My image](https://www.arweave.net/2zReiXtAjnp5_q4zXKS5LoL9VsarIifRJANiBub2pQM?ext=png)
