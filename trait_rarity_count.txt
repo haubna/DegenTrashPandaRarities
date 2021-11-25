@@ -1,4 +1,4 @@
-BODY - Blue > 1
+BODY - Blue > 1 <- This one is Degen Trash Panda #22. Pit missed one when updating the background metadata. One of a kind now. Mismatching metadata/background.
 FUR - Acid Trip - Grin > 18
 FUR - Gold - Grin > 19
 FUR - Gold - Smirk  > 20
