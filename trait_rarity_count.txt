@@ -1,135 +1,135 @@
-13,612 minted out of 20,000
-BODY - Blue > 1 minted out of 1 <- This one is Degen Trash Panda #22. Pit missed one when updating the background metadata. One of a kind now. Mismatching metadata/background.
-FUR - Gold - Smirk  > 13 minted out of 20
-FUR - Gold - Grin > 14 minted out of 19
-FUR - Acid Trip - Grin > 15 minted out of 18
-HEAD - Space Helmet > 15 minted out of 21
-FUR - Acid Trip - Smirk  > 17 minted out of 24
-BODY - Admiral > 18 minted out of 29
-FUR - Zombie - Grin > 18 minted out of 31
-HEAD - Urn > 21 minted out of 31
-FUR - Zombie - Smirk > 25 minted out of 33
-GLASSES - Monocle > 34 minted out of 56
-HEAD - Steampunk Hat > 38 minted out of 53
-BODY - Blouse > 40 minted out of 63
-HEAD - Crown > 41 minted out of 61
-HEAD - Unicorn Headband > 43 minted out of 58
-BODY - Prom King > 48 minted out of 71
-BODY - Tweed Suit > 58 minted out of 75
-BODY - Spacesuit > 59 minted out of 95
-MOUTH - Dirty Fiat - Grin > 94 minted out of 140
-BODY - Vampire Cape > 105 minted out of 162
-HEAD - Beanie > 113 minted out of 190
-BODY - Slav Jacket > 139 minted out of 208
-HEAD - The Gambler > 142 minted out of 206
-FUR - Antique - Grin > 149 minted out of 213
-BODY - Designer Jacket > 150 minted out of 215
-BODY - Chav Jacket > 151 minted out of 215
-GLASSES - Snow Goggles > 155 minted out of 234
-HEAD - Sombrero > 157 minted out of 249
-BODY - Toga > 161 minted out of 240
-BODY - Crayon Farmer > 162 minted out of 243
-BODY - Down Jacket > 162 minted out of 224
-HEAD - Flat Cap > 169 minted out of 249
-FUR - Fox - Grin > 171 minted out of 260
-HEAD - Sock > 175 minted out of 266
-MOUTH - Joint - Smirk > 195 minted out of 281
-HEAD - Tomato Soup > 206 minted out of 312
-MOUTH - Cigar - Grin > 210 minted out of 307
-BODY - Xmas Sweater > 220 minted out of 321
-FUR - Antique - Smirk > 227 minted out of 313
-BODY - Fairy Wings > 237 minted out of 330
-MOUTH - War Medal - Smirk > 237 minted out of 349
-GLASSES - Star Glasses > 241 minted out of 337
-FUR - Fox - Smirk > 254 minted out of 360
-HEAD - Paper Bag > 263 minted out of 382
-BODY - Rain Jacket > 275 minted out of 407
-BODY - Mummy > 281 minted out of 408
-HEAD - Colander > 283 minted out of 421
-BODY - Football Jersey - Blue/White > 286 minted out of 433
-BODY - Chain > 286 minted out of 429
-BODY - Football Jersey - Red/Blue > 299 minted out of 430
-BODY - Degen Service Polo > 308 minted out of 452
-BODY - Leather Jacket > 315 minted out of 428
-FUR - Scarred Black - Grin > 322 minted out of 500
-FUR - Scarred Blue - Grin > 325 minted out of 514
-HEAD - Road Cone > 326 minted out of 487
-HEAD - Pandas Pickles > 334 minted out of 480
-FUR - Scarred Brown - Grin > 346 minted out of 490
-BODY - Engineer > 355 minted out of 526
-HEAD - Headband > 366 minted out of 531
-HEAD - Boot > 367 minted out of 535
-FUR - Scarred Red - Grin > 368 minted out of 524
-HEAD - Beret > 371 minted out of 547
-MOUTH - Crayon Shiv - Smirk > 379 minted out of 579
-FUR - Scarred Green - Grin > 380 minted out of 548
-MOUTH - Smashed Bottle - Grin > 387 minted out of 545
-HEAD - Pirate Hat > 397 minted out of 577
-FUR - Scarred Purple - Grin > 406 minted out of 578
-HEAD - Belt > 437 minted out of 620
-FUR - Scarred Blue - Smirk > 440 minted out of 660
-FUR - Scarred Black - Smirk > 441 minted out of 657
-BODY - Overalls > 452 minted out of 680
-BODY - Hockey Pads > 452 minted out of 638
-HEAD - Pandos > 455 minted out of 686
-MOUTH - Dynamite - Grin > 457 minted out of 654
-BODY - Fishing Vest > 458 minted out of 692
-FUR - Scarred Purple - Smirk > 460 minted out of 699
-FUR - Scarred Green - Smirk > 460 minted out of 671
-FUR - Scarred Red - Smirk > 460 minted out of 711
-GLASSES - Swimming Goggles > 471 minted out of 708
-HEAD - Takeout > 473 minted out of 701
-HEAD - Ice Cream > 473 minted out of 693
-FUR - Scarred Brown - Smirk > 474 minted out of 697
-FUR - Black - Grin > 482 minted out of 702
-HEAD - Lampshade > 498 minted out of 717
-FUR - Blue - Grin > 531 minted out of 790
-BODY - Hoodie > 560 minted out of 832
-BODY - Singlet > 560 minted out of 839
-MOUTH - Cigarette - Smirk > 569 minted out of 858
-FUR - Green - Grin > 572 minted out of 849
-MOUTH - Acid - Grin > 573 minted out of 851
-BODY - T-Shirt > 576 minted out of 830
-BODY - Bumbag > 578 minted out of 875
-HEAD - Cardboard Box > 585 minted out of 881
-FUR - Red - Grin > 585 minted out of 828
-BODY - Open Shirt > 586 minted out of 847
-HEAD - Tamberine > 588 minted out of 861
-HEAD - Degen Service Hat > 597 minted out of 853
-BODY - Bandana > 601 minted out of 902
-HEAD - Pot > 603 minted out of 888
-FUR - Purple - Grin > 603 minted out of 882
-FUR - Brown - Grin > 609 minted out of 871
-BODY - Dress Shirt > 617 minted out of 913
-HEAD - Paint Can > 654 minted out of 950
-FUR - Black - Smirk > 657 minted out of 955
-BODY - Denim Vest > 660 minted out of 984
-BODY - Turtle Neck > 673 minted out of 983
-HEAD - Plunger > 678 minted out of 1014
-GLASSES - Trash Vipers > 693 minted out of 1040
-BODY - Knitted Vest > 711 minted out of 1036
-HEAD - Trucker Cap > 724 minted out of 1063
-FUR - Purple - Smirk > 748 minted out of 1093
-FUR - Blue - Smirk > 753 minted out of 1122
-HEAD - Trash Lid > 753 minted out of 1089
-FUR - Brown - Smirk > 756 minted out of 1136
-FUR - Green - Smirk > 760 minted out of 1097
-FUR - Red - Smirk > 771 minted out of 1135
-MOUTH - Bone - Grin > 881 minted out of 1276
-MOUTH - Bird Foot - Smirk > 915 minted out of 1347
-MOUTH - Burnt Spoon - Smirk > 940 minted out of 1389
-MOUTH - Lollipop - Grin > 1064 minted out of 1569
-MOUTH - Rat Tail - Smirk > 1126 minted out of 1593
-MOUTH - Match Stick - Smirk > 1130 minted out of 1672
-GLASSES - Reading Glasses > 1771 minted out of 2532
-GLASSES - Designer Glasses > 1886 minted out of 2843
-BODY - No Traits > 2012 minted out of 2944
-BACKGROUND - Blue > 2141 minted out of 3172
-BACKGROUND - Yellow > 2191 minted out of 3209
-BACKGROUND - Green > 2193 minted out of 3220
-BACKGROUND - Purple > 2217 minted out of 3264
-BACKGROUND - Red > 2224 minted out of 3260
-HEAD - No Traits > 2267 minted out of 3328
-BACKGROUND - Black > 2646 minted out of 3875
-MOUTH - No Traits > 4455 minted out of 6590
-GLASSES - No Traits > 8361 minted out of 12250
+13,612 minted out of 20,000 (68.06%)
+BODY - Blue > 1 minted out of 1 (100.00%) <- This one is Degen Trash Panda #22. Pit missed one when updating the background metadata. One of a kind now. Mismatching metadata/background.
+FUR - Gold - Smirk  > 13 minted out of 20 (65.00%)
+FUR - Gold - Grin > 14 minted out of 19 (73.68%)
+FUR - Acid Trip - Grin > 15 minted out of 18 (83.33%)
+HEAD - Space Helmet > 15 minted out of 21 (71.43%)
+FUR - Acid Trip - Smirk  > 17 minted out of 24 (70.83%)
+BODY - Admiral > 18 minted out of 29 (62.07%)
+FUR - Zombie - Grin > 18 minted out of 31 (58.06%)
+HEAD - Urn > 21 minted out of 31 (67.74%)
+FUR - Zombie - Smirk > 25 minted out of 33 (75.76%)
+GLASSES - Monocle > 34 minted out of 56 (60.71%)
+HEAD - Steampunk Hat > 38 minted out of 53 (71.70%)
+BODY - Blouse > 40 minted out of 63 (63.49%)
+HEAD - Crown > 41 minted out of 61 (67.21%)
+HEAD - Unicorn Headband > 43 minted out of 58 (74.14%)
+BODY - Prom King > 48 minted out of 71 (67.61%)
+BODY - Tweed Suit > 58 minted out of 75 (77.33%)
+BODY - Spacesuit > 59 minted out of 95 (62.11%)
+MOUTH - Dirty Fiat - Grin > 94 minted out of 140 (67.14%)
+BODY - Vampire Cape > 105 minted out of 162 (64.81%)
+HEAD - Beanie > 113 minted out of 190 (59.47%)
+BODY - Slav Jacket > 139 minted out of 208 (66.83%)
+HEAD - The Gambler > 142 minted out of 206 (68.93%)
+FUR - Antique - Grin > 149 minted out of 213 (69.95%)
+BODY - Designer Jacket > 150 minted out of 215 (69.77%)
+BODY - Chav Jacket > 151 minted out of 215 (70.23%)
+GLASSES - Snow Goggles > 155 minted out of 234 (66.24%)
+HEAD - Sombrero > 157 minted out of 249 (63.05%)
+BODY - Toga > 161 minted out of 240 (67.08%)
+BODY - Crayon Farmer > 162 minted out of 243 (66.67%)
+BODY - Down Jacket > 162 minted out of 224 (72.32%)
+HEAD - Flat Cap > 169 minted out of 249 (67.87%)
+FUR - Fox - Grin > 171 minted out of 260 (65.77%)
+HEAD - Sock > 175 minted out of 266 (65.79%)
+MOUTH - Joint - Smirk > 195 minted out of 281 (69.40%)
+HEAD - Tomato Soup > 206 minted out of 312 (66.03%)
+MOUTH - Cigar - Grin > 210 minted out of 307 (68.40%)
+BODY - Xmas Sweater > 220 minted out of 321 (68.54%)
+FUR - Antique - Smirk > 227 minted out of 313 (72.52%)
+BODY - Fairy Wings > 237 minted out of 330 (71.82%)
+MOUTH - War Medal - Smirk > 237 minted out of 349 (67.91%)
+GLASSES - Star Glasses > 241 minted out of 337 (71.51%)
+FUR - Fox - Smirk > 254 minted out of 360 (70.56%)
+HEAD - Paper Bag > 263 minted out of 382 (68.85%)
+BODY - Rain Jacket > 275 minted out of 407 (67.57%)
+BODY - Mummy > 281 minted out of 408 (68.87%)
+HEAD - Colander > 283 minted out of 421 (67.22%)
+BODY - Football Jersey - Blue/White > 286 minted out of 433 (66.05%)
+BODY - Chain > 286 minted out of 429 (66.67%)
+BODY - Football Jersey - Red/Blue > 299 minted out of 430 (69.53%)
+BODY - Degen Service Polo > 308 minted out of 452 (68.14%)
+BODY - Leather Jacket > 315 minted out of 428 (73.60%)
+FUR - Scarred Black - Grin > 322 minted out of 500 (64.40%)
+FUR - Scarred Blue - Grin > 325 minted out of 514 (63.23%)
+HEAD - Road Cone > 326 minted out of 487 (66.94%)
+HEAD - Pandas Pickles > 334 minted out of 480 (69.58%)
+FUR - Scarred Brown - Grin > 346 minted out of 490 (70.61%)
+BODY - Engineer > 355 minted out of 526 (67.49%)
+HEAD - Headband > 366 minted out of 531 (68.93%)
+HEAD - Boot > 367 minted out of 535 (68.60%)
+FUR - Scarred Red - Grin > 368 minted out of 524 (70.23%)
+HEAD - Beret > 371 minted out of 547 (67.82%)
+MOUTH - Crayon Shiv - Smirk > 379 minted out of 579 (65.46%)
+FUR - Scarred Green - Grin > 380 minted out of 548 (69.34%)
+MOUTH - Smashed Bottle - Grin > 387 minted out of 545 (71.01%)
+HEAD - Pirate Hat > 397 minted out of 577 (68.80%)
+FUR - Scarred Purple - Grin > 406 minted out of 578 (70.24%)
+HEAD - Belt > 437 minted out of 620 (70.48%)
+FUR - Scarred Blue - Smirk > 440 minted out of 660 (66.67%)
+FUR - Scarred Black - Smirk > 441 minted out of 657 (67.12%)
+BODY - Overalls > 452 minted out of 680 (66.47%)
+BODY - Hockey Pads > 452 minted out of 638 (70.85%)
+HEAD - Pandos > 455 minted out of 686 (66.33%)
+MOUTH - Dynamite - Grin > 457 minted out of 654 (69.88%)
+BODY - Fishing Vest > 458 minted out of 692 (66.18%)
+FUR - Scarred Purple - Smirk > 460 minted out of 699 (65.81%)
+FUR - Scarred Green - Smirk > 460 minted out of 671 (68.55%)
+FUR - Scarred Red - Smirk > 460 minted out of 711 (64.70%)
+GLASSES - Swimming Goggles > 471 minted out of 708 (66.53%)
+HEAD - Takeout > 473 minted out of 701 (67.48%)
+HEAD - Ice Cream > 473 minted out of 693 (68.25%)
+FUR - Scarred Brown - Smirk > 474 minted out of 697 (68.01%)
+FUR - Black - Grin > 482 minted out of 702 (68.66%)
+HEAD - Lampshade > 498 minted out of 717 (69.46%)
+FUR - Blue - Grin > 531 minted out of 790 (67.22%)
+BODY - Hoodie > 560 minted out of 832 (67.31%)
+BODY - Singlet > 560 minted out of 839 (66.75%)
+MOUTH - Cigarette - Smirk > 569 minted out of 858 (66.32%)
+FUR - Green - Grin > 572 minted out of 849 (67.37%)
+MOUTH - Acid - Grin > 573 minted out of 851 (67.33%)
+BODY - T-Shirt > 576 minted out of 830 (69.40%)
+BODY - Bumbag > 578 minted out of 875 (66.06%)
+HEAD - Cardboard Box > 585 minted out of 881 (66.40%)
+FUR - Red - Grin > 585 minted out of 828 (70.65%)
+BODY - Open Shirt > 586 minted out of 847 (69.19%)
+HEAD - Tamberine > 588 minted out of 861 (68.29%)
+HEAD - Degen Service Hat > 597 minted out of 853 (69.99%)
+BODY - Bandana > 601 minted out of 902 (66.63%)
+HEAD - Pot > 603 minted out of 888 (67.91%)
+FUR - Purple - Grin > 603 minted out of 882 (68.37%)
+FUR - Brown - Grin > 609 minted out of 871 (69.92%)
+BODY - Dress Shirt > 617 minted out of 913 (67.58%)
+HEAD - Paint Can > 654 minted out of 950 (68.84%)
+FUR - Black - Smirk > 657 minted out of 955 (68.80%)
+BODY - Denim Vest > 660 minted out of 984 (67.07%)
+BODY - Turtle Neck > 673 minted out of 983 (68.46%)
+HEAD - Plunger > 678 minted out of 1014 (66.86%)
+GLASSES - Trash Vipers > 693 minted out of 1040 (66.63%)
+BODY - Knitted Vest > 711 minted out of 1036 (68.63%)
+HEAD - Trucker Cap > 724 minted out of 1063 (68.11%)
+FUR - Purple - Smirk > 748 minted out of 1093 (68.44%)
+FUR - Blue - Smirk > 753 minted out of 1122 (67.11%)
+HEAD - Trash Lid > 753 minted out of 1089 (69.15%)
+FUR - Brown - Smirk > 756 minted out of 1136 (66.55%)
+FUR - Green - Smirk > 760 minted out of 1097 (69.28%)
+FUR - Red - Smirk > 771 minted out of 1135 (67.93%)
+MOUTH - Bone - Grin > 881 minted out of 1276 (69.04%)
+MOUTH - Bird Foot - Smirk > 915 minted out of 1347 (67.93%)
+MOUTH - Burnt Spoon - Smirk > 940 minted out of 1389 (67.67%)
+MOUTH - Lollipop - Grin > 1064 minted out of 1569 (67.81%)
+MOUTH - Rat Tail - Smirk > 1126 minted out of 1593 (70.68%)
+MOUTH - Match Stick - Smirk > 1130 minted out of 1672 (67.58%)
+GLASSES - Reading Glasses > 1771 minted out of 2532 (69.94%)
+GLASSES - Designer Glasses > 1886 minted out of 2843 (66.34%)
+BODY - No Traits > 2012 minted out of 2944 (68.34%)
+BACKGROUND - Blue > 2141 minted out of 3172 (67.50%)
+BACKGROUND - Yellow > 2191 minted out of 3209 (68.28%)
+BACKGROUND - Green > 2193 minted out of 3220 (68.11%)
+BACKGROUND - Purple > 2217 minted out of 3264 (67.92%)
+BACKGROUND - Red > 2224 minted out of 3260 (68.22%)
+HEAD - No Traits > 2267 minted out of 3328 (68.12%)
+BACKGROUND - Black > 2646 minted out of 3875 (68.28%)
+MOUTH - No Traits > 4455 minted out of 6590 (67.60%)
+GLASSES - No Traits > 8361 minted out of 12250 (68.25%)
