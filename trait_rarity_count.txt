@@ -1,134 +1,135 @@
-BODY - Blue > 1 <- This one is Degen Trash Panda #22. Pit missed one when updating the background metadata. One of a kind now. Mismatching metadata/background.
-FUR - Acid Trip - Grin > 18
-FUR - Gold - Grin > 19
-FUR - Gold - Smirk  > 20
-HEAD - Space Helmet > 21
-FUR - Acid Trip - Smirk  > 24
-BODY - Admiral > 29
-HEAD - Urn > 31
-FUR - Zombie - Grin > 31
-FUR - Zombie - Smirk > 33
-HEAD - Steampunk Hat > 53
-GLASSES - Monocle > 56
-HEAD - Unicorn Headband > 58
-HEAD - Crown > 61
-BODY - Blouse > 63
-BODY - Prom King > 71
-BODY - Tweed Suit > 75
-BODY - Spacesuit > 95
-MOUTH - Dirty Fiat - Grin > 140
-BODY - Vampire Cape > 162
-HEAD - Beanie > 190
-HEAD - The Gambler > 206
-BODY - Slav Jacket > 208
-FUR - Antique - Grin > 213
-BODY - Designer Jacket > 215
-BODY - Chav Jacket > 215
-BODY - Down Jacket > 224
-GLASSES - Snow Goggles > 234
-BODY - Toga > 240
-BODY - Crayon Farmer > 243
-HEAD - Sombrero > 249
-HEAD - Flat Cap > 249
-FUR - Fox - Grin > 260
-HEAD - Sock > 266
-MOUTH - Joint - Smirk > 281
-MOUTH - Cigar - Grin > 307
-HEAD - Tomato Soup > 312
-FUR - Antique - Smirk > 313
-BODY - Xmas Sweater > 321
-BODY - Fairy Wings > 330
-GLASSES - Star Glasses > 337
-MOUTH - War Medal - Smirk > 349
-FUR - Fox - Smirk > 360
-HEAD - Paper Bag > 382
-BODY - Rain Jacket > 407
-BODY - Mummy > 408
-HEAD - Colander > 421
-BODY - Leather Jacket > 428
-BODY - Chain > 429
-BODY - Football Jersey - Red/Blue > 430
-BODY - Football Jersey - Blue/White > 433
-BODY - Degen Service Polo > 452
-HEAD - Pandas Pickles > 480
-HEAD - Road Cone > 487
-FUR - Scarred Brown - Grin > 490
-FUR - Scarred Black - Grin > 500
-FUR - Scarred Blue - Grin > 514
-FUR - Scarred Red - Grin > 524
-BODY - Engineer > 526
-HEAD - Headband > 531
-HEAD - Boot > 535
-MOUTH - Smashed Bottle - Grin > 545
-HEAD - Beret > 547
-FUR - Scarred Green - Grin > 548
-HEAD - Pirate Hat > 577
-FUR - Scarred Purple - Grin > 578
-MOUTH - Crayon Shiv - Smirk > 579
-HEAD - Belt > 620
-BODY - Hockey Pads > 638
-MOUTH - Dynamite - Grin > 654
-FUR - Scarred Black - Smirk > 657
-FUR - Scarred Blue - Smirk > 660
-FUR - Scarred Green - Smirk > 671
-BODY - Overalls > 680
-HEAD - Pandos > 686
-BODY - Fishing Vest > 692
-HEAD - Ice Cream > 693
-FUR - Scarred Brown - Smirk > 697
-FUR - Scarred Purple - Smirk > 699
-HEAD - Takeout > 701
-FUR - Black - Grin > 702
-GLASSES - Swimming Goggles > 708
-FUR - Scarred Red - Smirk > 711
-HEAD - Lampshade > 717
-FUR - Blue - Grin > 790
-FUR - Red - Grin > 828
-BODY - T-Shirt > 830
-BODY - Hoodie > 832
-BODY - Singlet > 839
-BODY - Open Shirt > 847
-FUR - Green - Grin > 849
-MOUTH - Acid - Grin > 851
-HEAD - Degen Service Hat > 853
-MOUTH - Cigarette - Smirk > 858
-HEAD - Tamberine > 861
-FUR - Brown - Grin > 871
-BODY - Bumbag > 875
-HEAD - Cardboard Box > 881
-FUR - Purple - Grin > 882
-HEAD - Pot > 888
-BODY - Bandana > 902
-BODY - Dress Shirt > 913
-HEAD - Paint Can > 950
-FUR - Black - Smirk > 955
-BODY - Turtle Neck > 983
-BODY - Denim Vest > 984
-HEAD - Plunger > 1014
-BODY - Knitted Vest > 1036
-GLASSES - Trash Vipers > 1040
-HEAD - Trucker Cap > 1063
-HEAD - Trash Lid > 1089
-FUR - Purple - Smirk > 1093
-FUR - Green - Smirk > 1097
-FUR - Blue - Smirk > 1122
-FUR - Red - Smirk > 1135
-FUR - Brown - Smirk > 1136
-MOUTH - Bone - Grin > 1276
-MOUTH - Bird Foot - Smirk > 1347
-MOUTH - Burnt Spoon - Smirk > 1389
-MOUTH - Lollipop - Grin > 1569
-MOUTH - Rat Tail - Smirk > 1593
-MOUTH - Match Stick - Smirk > 1672
-GLASSES - Reading Glasses > 2532
-GLASSES - Designer Glasses > 2843
-BODY - No Traits > 2944
-BACKGROUND - Blue > 3172
-BACKGROUND - Yellow > 3209
-BACKGROUND - Green > 3220
-BACKGROUND - Red > 3260
-BACKGROUND - Purple > 3264
-HEAD - No Traits > 3328
-BACKGROUND - Black > 3875
-MOUTH - No Traits > 6590
-GLASSES - No Traits > 12250
+13,612 minted out of 20,000
+BODY - Blue > 1 minted out of 1 <- This one is Degen Trash Panda #22. Pit missed one when updating the background metadata. One of a kind now. Mismatching metadata/background.
+FUR - Gold - Smirk  > 13 minted out of 20
+FUR - Gold - Grin > 14 minted out of 19
+FUR - Acid Trip - Grin > 15 minted out of 18
+HEAD - Space Helmet > 15 minted out of 21
+FUR - Acid Trip - Smirk  > 17 minted out of 24
+BODY - Admiral > 18 minted out of 29
+FUR - Zombie - Grin > 18 minted out of 31
+HEAD - Urn > 21 minted out of 31
+FUR - Zombie - Smirk > 25 minted out of 33
+GLASSES - Monocle > 34 minted out of 56
+HEAD - Steampunk Hat > 38 minted out of 53
+BODY - Blouse > 40 minted out of 63
+HEAD - Crown > 41 minted out of 61
+HEAD - Unicorn Headband > 43 minted out of 58
+BODY - Prom King > 48 minted out of 71
+BODY - Tweed Suit > 58 minted out of 75
+BODY - Spacesuit > 59 minted out of 95
+MOUTH - Dirty Fiat - Grin > 94 minted out of 140
+BODY - Vampire Cape > 105 minted out of 162
+HEAD - Beanie > 113 minted out of 190
+BODY - Slav Jacket > 139 minted out of 208
+HEAD - The Gambler > 142 minted out of 206
+FUR - Antique - Grin > 149 minted out of 213
+BODY - Designer Jacket > 150 minted out of 215
+BODY - Chav Jacket > 151 minted out of 215
+GLASSES - Snow Goggles > 155 minted out of 234
+HEAD - Sombrero > 157 minted out of 249
+BODY - Toga > 161 minted out of 240
+BODY - Crayon Farmer > 162 minted out of 243
+BODY - Down Jacket > 162 minted out of 224
+HEAD - Flat Cap > 169 minted out of 249
+FUR - Fox - Grin > 171 minted out of 260
+HEAD - Sock > 175 minted out of 266
+MOUTH - Joint - Smirk > 195 minted out of 281
+HEAD - Tomato Soup > 206 minted out of 312
+MOUTH - Cigar - Grin > 210 minted out of 307
+BODY - Xmas Sweater > 220 minted out of 321
+FUR - Antique - Smirk > 227 minted out of 313
+BODY - Fairy Wings > 237 minted out of 330
+MOUTH - War Medal - Smirk > 237 minted out of 349
+GLASSES - Star Glasses > 241 minted out of 337
+FUR - Fox - Smirk > 254 minted out of 360
+HEAD - Paper Bag > 263 minted out of 382
+BODY - Rain Jacket > 275 minted out of 407
+BODY - Mummy > 281 minted out of 408
+HEAD - Colander > 283 minted out of 421
+BODY - Football Jersey - Blue/White > 286 minted out of 433
+BODY - Chain > 286 minted out of 429
+BODY - Football Jersey - Red/Blue > 299 minted out of 430
+BODY - Degen Service Polo > 308 minted out of 452
+BODY - Leather Jacket > 315 minted out of 428
+FUR - Scarred Black - Grin > 322 minted out of 500
+FUR - Scarred Blue - Grin > 325 minted out of 514
+HEAD - Road Cone > 326 minted out of 487
+HEAD - Pandas Pickles > 334 minted out of 480
+FUR - Scarred Brown - Grin > 346 minted out of 490
+BODY - Engineer > 355 minted out of 526
+HEAD - Headband > 366 minted out of 531
+HEAD - Boot > 367 minted out of 535
+FUR - Scarred Red - Grin > 368 minted out of 524
+HEAD - Beret > 371 minted out of 547
+MOUTH - Crayon Shiv - Smirk > 379 minted out of 579
+FUR - Scarred Green - Grin > 380 minted out of 548
+MOUTH - Smashed Bottle - Grin > 387 minted out of 545
+HEAD - Pirate Hat > 397 minted out of 577
+FUR - Scarred Purple - Grin > 406 minted out of 578
+HEAD - Belt > 437 minted out of 620
+FUR - Scarred Blue - Smirk > 440 minted out of 660
+FUR - Scarred Black - Smirk > 441 minted out of 657
+BODY - Overalls > 452 minted out of 680
+BODY - Hockey Pads > 452 minted out of 638
+HEAD - Pandos > 455 minted out of 686
+MOUTH - Dynamite - Grin > 457 minted out of 654
+BODY - Fishing Vest > 458 minted out of 692
+FUR - Scarred Purple - Smirk > 460 minted out of 699
+FUR - Scarred Green - Smirk > 460 minted out of 671
+FUR - Scarred Red - Smirk > 460 minted out of 711
+GLASSES - Swimming Goggles > 471 minted out of 708
+HEAD - Takeout > 473 minted out of 701
+HEAD - Ice Cream > 473 minted out of 693
+FUR - Scarred Brown - Smirk > 474 minted out of 697
+FUR - Black - Grin > 482 minted out of 702
+HEAD - Lampshade > 498 minted out of 717
+FUR - Blue - Grin > 531 minted out of 790
+BODY - Hoodie > 560 minted out of 832
+BODY - Singlet > 560 minted out of 839
+MOUTH - Cigarette - Smirk > 569 minted out of 858
+FUR - Green - Grin > 572 minted out of 849
+MOUTH - Acid - Grin > 573 minted out of 851
+BODY - T-Shirt > 576 minted out of 830
+BODY - Bumbag > 578 minted out of 875
+HEAD - Cardboard Box > 585 minted out of 881
+FUR - Red - Grin > 585 minted out of 828
+BODY - Open Shirt > 586 minted out of 847
+HEAD - Tamberine > 588 minted out of 861
+HEAD - Degen Service Hat > 597 minted out of 853
+BODY - Bandana > 601 minted out of 902
+HEAD - Pot > 603 minted out of 888
+FUR - Purple - Grin > 603 minted out of 882
+FUR - Brown - Grin > 609 minted out of 871
+BODY - Dress Shirt > 617 minted out of 913
+HEAD - Paint Can > 654 minted out of 950
+FUR - Black - Smirk > 657 minted out of 955
+BODY - Denim Vest > 660 minted out of 984
+BODY - Turtle Neck > 673 minted out of 983
+HEAD - Plunger > 678 minted out of 1014
+GLASSES - Trash Vipers > 693 minted out of 1040
+BODY - Knitted Vest > 711 minted out of 1036
+HEAD - Trucker Cap > 724 minted out of 1063
+FUR - Purple - Smirk > 748 minted out of 1093
+FUR - Blue - Smirk > 753 minted out of 1122
+HEAD - Trash Lid > 753 minted out of 1089
+FUR - Brown - Smirk > 756 minted out of 1136
+FUR - Green - Smirk > 760 minted out of 1097
+FUR - Red - Smirk > 771 minted out of 1135
+MOUTH - Bone - Grin > 881 minted out of 1276
+MOUTH - Bird Foot - Smirk > 915 minted out of 1347
+MOUTH - Burnt Spoon - Smirk > 940 minted out of 1389
+MOUTH - Lollipop - Grin > 1064 minted out of 1569
+MOUTH - Rat Tail - Smirk > 1126 minted out of 1593
+MOUTH - Match Stick - Smirk > 1130 minted out of 1672
+GLASSES - Reading Glasses > 1771 minted out of 2532
+GLASSES - Designer Glasses > 1886 minted out of 2843
+BODY - No Traits > 2012 minted out of 2944
+BACKGROUND - Blue > 2141 minted out of 3172
+BACKGROUND - Yellow > 2191 minted out of 3209
+BACKGROUND - Green > 2193 minted out of 3220
+BACKGROUND - Purple > 2217 minted out of 3264
+BACKGROUND - Red > 2224 minted out of 3260
+HEAD - No Traits > 2267 minted out of 3328
+BACKGROUND - Black > 2646 minted out of 3875
+MOUTH - No Traits > 4455 minted out of 6590
+GLASSES - No Traits > 8361 minted out of 12250
